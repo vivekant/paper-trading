@@ -1,0 +1,2 @@
+# paper-trading
+virtual trading 
